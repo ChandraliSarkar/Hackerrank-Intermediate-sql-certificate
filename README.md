@@ -1,5 +1,5 @@
 # Hackerrank-Intermediate-sql-certificate
-
+View my certificate [here](https://www.hackerrank.com/certificates/b8f2421cfcea)
 This repository contains MySQL solutions of the HackerRank-SQL-Intermediate-Certificate problems which I encountered during the test.
 Programs / Questions
 1.Product Sales Per City
